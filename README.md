@@ -12,8 +12,10 @@ This repo consists of dsa problems solved by me </br>
   <li> <a href="https://leetcode.com/problems/isomorphic-strings/ ">Isomorphic strings </a></li> 
   <li> <a href="https://leetcode.com/problems/rotate-string/ ">Rotate string </a></li> 
   <li> <a href="https://leetcode.com/problems/valid-anagram/ "> Valid Anagram</a></li> 
-  
-  
+  <h3>06-nov-23</h3>
+  <li> <a href="https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/ ">Maximum Nesting Depth of Paranthesi </a></li>
+  <li> <a href="https://leetcode.com/problems/roman-to-integer/ ">Roman Number to Integer </a></li>
+  <li> <a href=" https://leetcode.com/problems/longest-palindromic-substring/"> Longest Palindromic Substring</a></li>
 </ol>
 
 /* <li> <a href=" "> </a></li> */
