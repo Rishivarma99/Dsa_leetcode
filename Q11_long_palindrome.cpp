@@ -1,7 +1,7 @@
 // QUE : LONGEST PALINDROME SUBSTRING 
 // EX : BABAD -> BAB 
 
-// APP 1 : USING 2 FOR LOOP AND FINDING START AND MAXLENGTH (substr)
+// APP 1 : TC :(O^2),  USING 2 FOR LOOP AND FINDING START AND MAXLENGTH (substr)
 // 1.traverse whole string using 2 loop 
 // 2.if it is palindrome and length of palindrome is greater 
 //   than max len update max lenth 
