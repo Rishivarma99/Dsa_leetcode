@@ -5,7 +5,7 @@
 // SOL:  -> divide into valid paren.. -> (()()) + (()) -> remove their outer pare... -> ()()+() ->combine -> ()()() 
  
 
-// APP-1-
+// APP-1- tc: o(n) sc : o(n) using stack ds 
 // (USING STACK) (STACK-> st.push(),st.pop(),st.top(),st.size()) 
 // (String-> declare,s.push_back(ch),s.length()) (Char -> to store each string )
 
