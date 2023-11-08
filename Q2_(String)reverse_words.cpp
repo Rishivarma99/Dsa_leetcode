@@ -1,7 +1,9 @@
 // Reverse words of string 
 // Ex-1- hello world -> world hello 
 
-// APP-1-(Using 2 strings -word and ans)->(String- word.push_back(),word.clear(),word.length())
+// APP-1- tc: o(n^2) 2 traversing each word in string 2 times 
+//        sc :o(n) to store the ans  
+// (Using 2 strings -word and ans)->(String- word.push_back(),word.clear(),word.length())
 //     1. In string ' ' space is denoted like this
 //     2.started from last word last letter and added it to the word until a space is found and 
 //       when space is found that shows the end of the particular word in the given string then 
